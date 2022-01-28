@@ -1,7 +1,7 @@
 package org.test;
 
 public class Class {
-	private void m2() {
+	private void mb1() {
 		System.out.println("done");
 
 	}
